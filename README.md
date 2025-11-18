@@ -1,16 +1,60 @@
-## Hi there 👋
 
-<!--
-**xmreur/xmreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+# 👋 Hey, I'm xmreur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔒 Cybersecurity Enthusiast | 🖥️ Full-Stack Developer | 🎯 Hacker
+
+Based in Italy, I specialize in building elegant, privacy-first software and security solutions. I thrive on projects that combine deep technical expertise with real-world impact—especially at the crossroads of anonymity, secure communication, and automation.
+
+## 🚩 What I'm Building
+
+### [Prysm](https://github.com/xmreur/prysm)  
+A privacy-first, cross-platform P2P messenger prototype built with Flutter. Prysm routes all traffic over Tor, ensuring zero metadata leaks and onion-routed communication.
+
+- 🛡️ End-to-end encrypted  
+- 🧅 Tor-based networking  
+- 🖥️ Built with Dart/Flutter  
+- 📱 Cross-platform by design
+
+## 🏆 GitHub Achievements
+
+Demonstrating my commitment to speed, expertise, and community engagement through verified [GitHub achievements](https://github.com/xmreur?achievement=quickdraw&tab=achievements):
+
+<p align="center">
+  <a href="https://github.com/xmreur?achievement=quickdraw&tab=achievements" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?logo=github&style=for-the-badge" alt="GitHub Achievements" />
+  </a>
+</p>
+
+## 🚀 My Tech Stack
+
+- **Backend:** Fastify (Node.js), Go, Python, Java, C, C++, Assembly  
+- **Frontend/Mobile:** Flutter, Next.js, TypeScript, JavaScript, CSS, HTML  
+- **Security:** Kali Linux, Tor, Penetration Testing, CTFs  
+- **DB/Infra:** PostgreSQL, MongoDB, Redis, Docker  
+- **Other Languages:** Rust (basic knowledge), Dart
+
+## 🌐 Connect
+
+- Telegram: [@eurxmr](https://t.me/eurxmr)  
+- Web: [prysmchat.xyz](https://prysmchat.xyz)
+
+Feel free to star or open an issue if you want to talk about cybersecurity, privacy, or open-source hacking!
+
+***
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmreur&show_icons=true&theme=dracula" alt="Most used languages" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xmreur&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmreur&theme=dracula" alt="GitHub Streak" width="400" />
+</p>
+
+***
+
+_“Code is a tool for freedom, and privacy is non-negotiable.”_
+
+***
