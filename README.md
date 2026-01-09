@@ -45,12 +45,9 @@ Feel free to star or open an issue if you want to talk about cybersecurity, priv
 ***
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmreur&show_icons=true&theme=dracula" alt="Most used languages" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmreur&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmreur&theme=dracula" alt="GitHub Streak" width="400" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=xmreur&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=xmreur&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xmreur&layout=compact&theme=onedark)
 </p>
 
 ***
