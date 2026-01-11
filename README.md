@@ -42,11 +42,13 @@ Demonstrating my commitment to speed, expertise, and community engagement throug
 
 ## 🚀 My Tech Stack
 
-- **Backend:** Fastify (Node.js), Go, Python, Java, C, C++, Assembly  
-- **Frontend/Mobile:** Flutter, Next.js, TypeScript, JavaScript, CSS, HTML  
-- **Security:** Kali Linux, Tor, Penetration Testing, CTFs  
-- **DB/Infra:** PostgreSQL, MongoDB, Redis, Docker  
-- **Other Languages:** Rust (basic knowledge), Dart
+- **Backend:** Fastify, Express, NestJS (Node.js), SupaBase, Flask, FastAPI, Django
+- **Programming Languages:** JavaScript, Python, C#, Bash, Go, Java, C, C++, Assembly, TypeScript, Dart  
+- **Frontend/Mobile:** Flutter, Next.js, React, TypeScript, JavaScript, CSS, HTML  
+- **Security:** Linux, Tor, Penetration Testing, CTFs  
+- **DB/Infra:** PostgreSQL, MongoDB, Redis, Docker
+- **OSes:** Linux, Windows, MacOS
+- **Other Languages:** Rust (basic knowledge)
 
 ## 🌐 Connect
 
