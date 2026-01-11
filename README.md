@@ -17,6 +17,19 @@ A privacy-first, cross-platform P2P messenger prototype built with Flutter. Prys
 - 🖥️ Built with Dart/Flutter  
 - 📱 Cross-platform by design
 
+### [Fluxa](https://github.com/xmreur/Fluxa)
+
+**Fluxa** is a lightweight, open-source issue, bug, and feature proposal tracker built with **React** and **Supabase**.
+
+> *Progress, tracked.*
+
+Fluxa focuses on clarity and speed: track what’s active, what’s completed, and who’s working on what  without overcomplicating workflows.
+
+![License](https://img.shields.io/github/license/xmreur/Fluxa)
+![Stars](https://img.shields.io/github/stars/xmreur/Fluxa)
+![Supabase](https://img.shields.io/badge/backend-Supabase-3ECF8E?logo=supabase)
+![React](https://img.shields.io/badge/frontend-React-61DAFB?logo=react)
+
 ## 🏆 GitHub Achievements
 
 Demonstrating my commitment to speed, expertise, and community engagement through verified [GitHub achievements](https://github.com/xmreur?achievement=quickdraw&tab=achievements):
@@ -45,9 +58,9 @@ Feel free to star or open an issue if you want to talk about cybersecurity, priv
 ***
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=xmreur&show_icons=true&theme=onedark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=xmreur&theme=onedark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xmreur&layout=compact&theme=onedark)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=xmreur&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=xmreur&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xmreur&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
 ***
