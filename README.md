@@ -66,7 +66,9 @@ Feel free to star or open an issue if you want to talk about cybersecurity, priv
 </p>
 
 ***
+<p align="center"> 
 [![Discord Presence](https://lanyard.cnrad.dev/api/815663151521071114)](https://discord.com/users/815663151521071114)
+</p>
 ***
 
 _“Code is a tool for freedom, and privacy is non-negotiable.”_
