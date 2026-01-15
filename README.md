@@ -1,3 +1,4 @@
+![Stars](https://img.shields.io/github/stars/xmreur)
 
 ***
 
