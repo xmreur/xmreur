@@ -1,7 +1,3 @@
-![Stars](https://img.shields.io/github/stars/xmreur)
-
-***
-
 # 👋 Hey, I'm xmreur
 
 🔒 Cybersecurity Enthusiast | 🖥️ Full-Stack Developer | 🎯 Hacker
@@ -69,6 +65,9 @@ Feel free to star or open an issue if you want to talk about cybersecurity, priv
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=xmreur&theme=onedark" alt="GitHub Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xmreur&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
+
+![Stars](https://img.shields.io/github/stars/xmreur)
+
 
 ***
 
