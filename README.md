@@ -18,6 +18,10 @@ A privacy-first, cross-platform P2P messenger prototype built with Flutter. Prys
 - 🖥️ Built with Dart/Flutter  
 - 📱 Cross-platform by design
 
+![License](https://img.shields.io/github/license/xmreur/prysm)
+![Stars](https://img.shields.io/github/stars/xmreur/prysm)
+![Flutter](https://img.shields.io/badge/framework-Flutter-3ECF8E?logo=flutter)
+
 ### [Fluxa](https://github.com/xmreur/Fluxa)
 
 **Fluxa** is a lightweight, open-source issue, bug, and feature proposal tracker built with **React** and **Supabase**.
