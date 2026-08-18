@@ -1,84 +1,94 @@
-# 👋 Hey, I'm xmreur
+<div align="center">
 
-🔒 Cybersecurity Enthusiast | 🖥️ Full-Stack Developer | 🎯 Hacker
+# xmreur
 
-Based in Italy, I specialize in building elegant, privacy-first software and security solutions. I thrive on projects that combine deep technical expertise with real-world impact—especially at the crossroads of anonymity, secure communication, and automation.
+**Privacy-minded developer building tools for communication, coordination, and the open web.**
 
-## 🚩 What I'm Building
+[Telegram](https://t.me/eurxmr) · [Prysm](https://github.com/xmreur/prysm) · [Website](https://xmreur-resume.vercel.app)
 
-### [Prysm](https://github.com/xmreur/prysm)  
-A privacy-first, cross-platform P2P messenger prototype built with Flutter. Prysm routes all traffic over Tor, ensuring zero metadata leaks and onion-routed communication.
+</div>
 
-- 🛡️ End-to-end encrypted  
-- 🧅 Tor-based networking  
-- 🖥️ Built with Dart/Flutter  
-- 📱 Cross-platform by design
+<br />
 
-![License](https://img.shields.io/github/license/xmreur/prysm)
-![Stars](https://img.shields.io/github/stars/xmreur/prysm)
-![Flutter](https://img.shields.io/badge/framework-Flutter-3ECF8E?logo=flutter)
+## About
+
+I’m a developer from Italy interested in privacy engineering, secure systems, and developer tooling.
+
+Most of my work sits somewhere between:
+
+- private-by-default communication
+- practical security research and CTFs
+- full-stack products with simple, fast UX
+- self-hosted and open-source software
+
+## Selected work
+
+### [Prysm](https://github.com/xmreur/prysm)
+
+A cross-platform P2P messenger prototype built with Flutter and Dart.
+
+- End-to-end encrypted communication
+- Tor-routed networking
+- Mobile and desktop-oriented architecture
+- Experimenting with privacy-first messaging UX
+
+[Website](https://prysmchat.xyz)
+
+`Flutter` `Dart` `Tor` `P2P` `Privacy`
 
 ### [Fluxa](https://github.com/xmreur/Fluxa)
 
-**Fluxa** is a lightweight, open-source issue, bug, and feature proposal tracker built with **React** and **Supabase**.
+A lightweight issue, bug, and feature tracker for teams that prefer less process and more progress.
 
-> *Progress, tracked.*
+- Clear issue status and ownership
+- Built for speed and low-friction collaboration
+- Open-source React + Supabase stack
 
-Fluxa focuses on clarity and speed: track what’s active, what’s completed, and who’s working on what  without overcomplicating workflows.
+`React` `TypeScript` `Supabase`
 
-![License](https://img.shields.io/github/license/xmreur/Fluxa)
-![Stars](https://img.shields.io/github/stars/xmreur/Fluxa)
-![Supabase](https://img.shields.io/badge/backend-Supabase-3ECF8E?logo=supabase)
-![React](https://img.shields.io/badge/frontend-React-61DAFB?logo=react)
+## Toolbox
 
-## 🏆 GitHub Achievements
+```text
+Backend      Fastify · Express · NestJS · FastAPI · Django · Flask
+Frontend     React · Next.js · Flutter · TypeScript
+Data         PostgreSQL · MongoDB · Redis · Supabase
+Infra        Docker · Linux · GitHub Actions
+Security     Tor · Linux · CTFs · Web security fundamentals
+Languages    TypeScript · Python · Dart · Go · C# · C/C++ · Bash
+```
 
-Demonstrating my commitment to speed, expertise, and community engagement through verified [GitHub achievements](https://github.com/xmreur?achievement=quickdraw&tab=achievements):
+## GitHub
 
-<p align="center">
-  <a href="https://github.com/xmreur?achievement=quickdraw&tab=achievements" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?logo=github&style=for-the-badge" alt="GitHub Achievements" />
-  </a>
-</p>
+<div align="center">
+ <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=xmreur&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true"
+    alt="xmreur's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=xmreur&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+    alt="xmreur's most-used languages"
+  />
+</div>
 
-## 🚀 My Tech Stack
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=xmreur&bg_color=00000000&color=9ca3af&line=22c55e&point=f8fafc&area=true&hide_border=true"
+    alt="xmreur's contribution activity graph"
+  />
+</div>
 
-- **Backend:** Fastify, Express, NestJS (Node.js), SupaBase, Flask, FastAPI, Django
-- **Programming Languages:** JavaScript, Python, C#, Bash, Go, Java, C, C++, Assembly, TypeScript, Dart  
-- **Frontend/Mobile:** Flutter, Next.js, React, TypeScript, JavaScript, CSS, HTML  
-- **Security:** Linux, Tor, Penetration Testing, CTFs  
-- **DB/Infra:** PostgreSQL, MongoDB, Redis, Docker
-- **OSes:** Linux, Windows, MacOS
-- **Other Languages:** Rust (basic knowledge)
+## Contact
 
-## 🌐 Connect
+Want to discuss privacy, security, or open-source work?
 
-- Telegram: [@eurxmr](https://t.me/eurxmr)  
+- Telegram: [@eurxmr](https://t.me/eurxmr)
 - Web: [prysmchat.xyz](https://prysmchat.xyz)
+- Email: [Text me](mailto:xmreur@gmail.com)
 
-Feel free to star or open an issue if you want to talk about cybersecurity, privacy, or open-source hacking!
+<div align="center">
 
-***
+<sub>Build useful things. Keep users in control.</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=xmreur&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=xmreur&theme=onedark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xmreur&layout=compact&theme=onedark" alt="Top Languages" />
-</p>
-
-![Stars](https://img.shields.io/github/stars/xmreur)
-
-
-***
-
-<p align="center">
-  <a href="https://discord.com/users/815663151521071114">
-    <img src="https://lanyard.cnrad.dev/api/815663151521071114" alt="Discord Presence" />
-  </a>
-</p>
-
-***
-
-_“Code is a tool for freedom, and privacy is non-negotiable.”_
-
-***
+</div>
