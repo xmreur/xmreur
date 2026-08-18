@@ -49,12 +49,30 @@ A lightweight ORM focused on keeping database access simple, explicit, and devel
 ## Toolbox
 
 ```text
-Backend      Fastify · Express · NestJS · FastAPI · Django · Flask
-Frontend     React · Next.js · Flutter · TypeScript
-Data         PostgreSQL · MongoDB · Redis · Supabase
-Infra        Docker · Linux · GitHub Actions
-Security     Tor · Linux · CTFs · Web security fundamentals
-Languages    TypeScript · Python · Dart · Go · C# · C/C++ · Bash
+Programming languages
+TypeScript · JavaScript · Go · Python · Kotlin · Dart · Java
+C · C++ · C# · Bash · Assembly · Lua · Rust (learning)
+
+Web development
+Next.js · Tanstack Start · React · Vue · Vite · Node.js · Express · NestJS
+FastAPI · Django · Flask
+
+Mobile development
+Flutter · React Native · Cross-platform iOS/Android
+Native development · Mobile UI/UX
+
+Cybersecurity
+Penetration testing · Ethical hacking · CTF competitions
+EDR systems · Privacy technologies · Tor integration
+Zero-day findings
+
+Database & storage
+PostgreSQL · MySQL · Firebase · Supabase
+MongoDB · SQLite · Redis
+
+DevOps & systems
+Linux (Debian and Arch) · Windows · macOS
+System programming · GitHub · P2P systems
 ```
 
 ## GitHub
