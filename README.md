@@ -36,15 +36,15 @@ A cross-platform P2P messenger prototype built with Flutter and Dart.
 
 `Flutter` `Dart` `Tor` `P2P` `Privacy`
 
-### [Fluxa](https://github.com/xmreur/Fluxa)
+### [NeoORM](https://github.com/xmreur/neoorm)
 
-A lightweight issue, bug, and feature tracker for teams that prefer less process and more progress.
+A lightweight ORM focused on keeping database access simple, explicit, and developer-friendly.
 
-- Clear issue status and ownership
-- Built for speed and low-friction collaboration
-- Open-source React + Supabase stack
+- Designed for straightforward data modeling
+- Minimal abstractions around database operations
+- Built as an open-source developer tool
 
-`React` `TypeScript` `Supabase`
+`ORM` `Database` `Open Source`
 
 ## Toolbox
 
@@ -60,7 +60,7 @@ Languages    TypeScript · Python · Dart · Go · C# · C/C++ · Bash
 ## GitHub
 
 <div align="center">
- <img
+  <img
     height="165"
     src="https://github-stats-extended.vercel.app/api?username=xmreur&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true"
     alt="xmreur's GitHub statistics"
@@ -84,8 +84,8 @@ Languages    TypeScript · Python · Dart · Go · C# · C/C++ · Bash
 Want to discuss privacy, security, or open-source work?
 
 - Telegram: [@eurxmr](https://t.me/eurxmr)
-- Web: [prysmchat.xyz](https://prysmchat.xyz)
-- Email: [Text me](mailto:xmreur@gmail.com)
+- Web: [xmreur-resume.vercel.app](https://xmreur-resume.vercel.app)
+- Email: [xmreur@gmail.com](mailto:xmreur@gmail.com)
 
 <div align="center">
 
