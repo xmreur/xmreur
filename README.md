@@ -54,7 +54,7 @@ A custom and lightweight Apple Music client for Linux, requires only an active s
 - Designed for managing libraries, browsing music, and controlling playback without unnecessary complexity
 - Powered by Rust and Tauri for a small, native, cross-platform desktop foundation
 - Open-source and intended to evolve toward Android and iOS support
-- 
+
 `Music Player` `Audio` `Rust` `Tauri` `Open Source`
 
 ## Toolbox
