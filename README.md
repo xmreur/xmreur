@@ -46,6 +46,17 @@ A lightweight ORM focused on keeping database access simple, explicit, and devel
 
 `ORM` `Database` `Open Source`
 
+### [Sonora](https://github.com/xmreur/sonora)
+
+A custom and lightweight Apple Music client for Linux, requires only an active subscription on apple music.
+
+- Built around a clean, responsive listening experience
+- Designed for managing libraries, browsing music, and controlling playback without unnecessary complexity
+- Powered by Rust and Tauri for a small, native, cross-platform desktop foundation
+- Open-source and intended to evolve toward Android and iOS support
+- 
+`Music Player` `Audio` `Rust` `Tauri` `Open Source`
+
 ## Toolbox
 
 ```text
